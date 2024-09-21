@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "staging": "movie-app-10d57",
+    "default": "movie-app-10d57"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
